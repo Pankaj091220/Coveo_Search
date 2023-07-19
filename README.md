@@ -60,10 +60,10 @@ Hi. This is a Slack App integration of Coveo Search 👋
 9. Data can also be pushed into Salesforce Data Cloud. You can refer [this](https://developer.salesforce.com/docs/atlas.en-us.c360a_api.meta/c360a_api/c360a_getting_started_with_cdp.htm) for the purpose. However, it is not mandatory here as we have pushed data directly into Coveo data source.
 
 ### **Run on local setup**
-1  Clone our github [repo]()
+1  Clone our github [repo](https://github.com/Pankaj091220/Coveo_Search.git)
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/Pankaj091220/Coveo_Search.git
 ```
 2. Install all dependencies
 
