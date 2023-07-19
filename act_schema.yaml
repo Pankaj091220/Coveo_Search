@@ -1,0 +1,19 @@
+openapi: 3.0.3
+components:
+  schemas:
+    Course: 
+      type: object
+      properties:
+        title: 
+          type: string
+        score:  
+          type: string
+        category: 
+          type: string
+        description:
+          type: string
+        proficiencyLevel:
+          type: string
+        surveyUrl:
+          type: string
+        
