@@ -1,0 +1,6 @@
+{
+   "course_name": "Sales Cloud Configuration Basics",
+   "course_description": "Customize Sales Cloud to fit your business needs.",
+   "course_unique_number": "a1F2E0000078ujOUAQ",
+   "course_url": "https://developer.salesforce.com/trailhead/module/sales-cloud-configuration-basics/"
+ }

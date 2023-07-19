@@ -1,0 +1,6 @@
+ {
+   "course_name": "Sales Cloud Rollout Strategy",
+   "course_description": "Create a blueprint for a successful Sales Cloud implementation.",
+   "course_unique_number": "a1F2E0000078uizUAA",
+   "course_url": "https://developer.salesforce.com/trailhead/module/sales-cloud-rollout-strategy/"
+ }

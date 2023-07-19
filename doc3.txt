@@ -1,0 +1,6 @@
+{
+   "course_name": "Salesforce Adoption Strategies",
+   "course_description": "Get your sales reps using Salesforce to succeed.",
+   "course_unique_number": "a1F2E000007ZzdtUAC",
+   "course_url": "https://developer.salesforce.com/trailhead/module/salesforce-adoption-strategies/"
+}
